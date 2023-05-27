@@ -324,7 +324,7 @@ sed -i "s;EMPRESA;$empresaatual;g" /var/www/html/apps/termos.php > /dev/null 2>&
 echo ""
 echo -e "\E[44;1;32m    PAINELWEB ATUALIZADO COM SUCESSO     \E[0m"
 echo ""
-echo -e "ALANSSH" | figlet
+echo -e "keorichssh" | figlet
 echo ""
 echo -e "\033[1;36m PAINEL WEB DIGITE ESSE IP NO NAVEGADOR:\033[1;37m http://$IP/admin\033[0m"
 echo ""

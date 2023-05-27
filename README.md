@@ -1,7 +1,7 @@
 🔰GESTOR-SSH🔰
 
-🔹️PAINELWEB AlanSSH Free!
-      feat: @scottssh
+🔹️PAINELWEB Keorichssh Free!
+      feat: @keorich18
 
 
 ⬇️ Instalador
@@ -11,7 +11,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/VitorNobre18/Painel-Web/main/
 
 🔑 Key Ilimitada
 ```
-alanssh
+keorichssh
 ```
 
 🔄 Sincronizador
